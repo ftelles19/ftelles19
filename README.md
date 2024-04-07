@@ -9,7 +9,7 @@ Olá, eu sou o Felipe e estou embarcando na jornada da Programação com entusia
 
 Estou focado em expandir meus conhecimentos em desenvolvimento web e mobile, com o objetivo de criar aplicativos incríveis que possam fazer a diferença na vida das pessoas. 💻 :iphone:
 
-Estou sempre aberto a aprender novas habilidades e colaborar em projetos interessantes. Você pode me contatar por e-mail (felipetgoncalves@outlook.com) ou me encontrar no <a href="https://www.linkedin.com/in/felipe-telles-835262104/">LinkedIn</a>.
+Estou sempre aberto a aprender novas habilidades e colaborar em projetos interessantes. Você pode me contatar por e-mail (felipetgoncalves@outlook.com) ou me encontrar no <a href="https://www.linkedin.com/in/felipe-telles87/">LinkedIn</a>.
 
 Vamos codar juntos e criar algo incrível! 💻✨
 
