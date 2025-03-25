@@ -6,6 +6,7 @@ Olá, eu sou o Felipe e estou embarcando na jornada da Programação com entusia
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo"/>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 
 Estou focado em expandir meus conhecimentos em desenvolvimento web e mobile, com o objetivo de criar aplicativos incríveis que possam fazer a diferença na vida das pessoas. 💻 :iphone:
 
